@@ -1,4 +1,4 @@
-## Hello!  welcome to my Github profile!
+## Hello,  welcome to my Github profile!
 
 
 ![Daniel GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielMirandad&show_icons=true&theme=tokyonight)
