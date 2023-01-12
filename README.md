@@ -1,6 +1,5 @@
 ## Hello,  welcome to my Github profile!
 
-![DanielMirandad's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielMirandad&show_icons=true&theme=radical)
 
 ##
 <div style="display: inline_block">
