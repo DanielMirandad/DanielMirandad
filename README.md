@@ -1,5 +1,8 @@
 ## Hello,  welcome to my Github profile!
 
+![AREmoji_20220205_192211_188](https://user-images.githubusercontent.com/121094211/212573239-025ab878-8e8f-405d-81ed-949b79acfd6e.gif)
+
+
 
 ![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielMirandad&show_icons=true&theme=radical)
 
