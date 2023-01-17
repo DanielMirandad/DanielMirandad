@@ -1,5 +1,9 @@
 ## Hello,  welcome to my Github profile!
 
+To take up a challenging Career grows with honesty, loyalty, good relationship and best performance, and translate my Experience, knowledge, skills and abilities into value for an Organization. I am Front End developer (always in progress) Passionate about technologies and new challenges.
+
+##
+
 ![AREmoji_20220205_192211_188](https://user-images.githubusercontent.com/121094211/212573239-025ab878-8e8f-405d-81ed-949b79acfd6e.gif)
 
 
