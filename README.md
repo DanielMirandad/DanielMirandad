@@ -3,8 +3,6 @@
 ![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielMirandad&show_icons=true&theme=radical)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielMirandad)](https://github.com/DanielMirandad/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielMirandad&langs_count=8)](https://github.com/DanielMirandad/github-readme-stats)
 
 
